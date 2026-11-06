@@ -1,0 +1,6 @@
+[auth]
+enabled = true
+providers = ["email"]
+
+[project]
+name = "School Management System"
